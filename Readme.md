@@ -43,7 +43,7 @@ A PHP-based web platform that helps students discover and explore courses offere
 
 **Clone the repository**
 ```bash
-git clone https://github.com/noura05x/FindCourses.git
+git clone [https://github.com/noura05x/FindCourses.git](https://github.com/ghalaSa/FindCourses.git)
 ```
 
 ### Team
